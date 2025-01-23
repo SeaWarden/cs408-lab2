@@ -27,3 +27,23 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+## Running
+
+In order to run the website itself, you can open the folder location once it is installed on your device and select either of the html files. This will open up a new session in your default browser. If you make any changes to the code, you will need to refresh the browser (live preview will refresh whenever a change is detected).
+
+### References
+
+Basic Refresher:
+https://www.w3schools.com/html/
+
+CSS Styling:
+https://www.w3schools.com/css/css_syntax.ASP
+
+Window Alert:
+https://www.w3schools.com/Jsref/met_win_alert.asp
+
+Additional QUnit Testing (for alerts):
+https://www.washington.edu/accesscomputing/webd2/student/unit5/module2/lesson1.html#:~:text=One%20useful%20function%20that's%20native,called%20in%20response%20to%20events.
+
+https://www.jadeglobal.com/blog/jades-guide-qunit-test-and-javascript-unit-testing-framework
+
