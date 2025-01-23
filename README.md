@@ -31,6 +31,8 @@ npm test
 
 In order to run the website itself, you can open the folder location once it is installed on your device and select either of the html files. This will open up a new session in your default browser. If you make any changes to the code, you will need to refresh the browser (live preview will refresh whenever a change is detected).
 
+Live preview can be used by right-clickin on the html files within VS Code and selecting the live preview option. You will need to install live preview within extensions in order for this to work.
+
 ### References
 
 Basic Refresher:
